@@ -1,0 +1,13 @@
+tipo:ACPM:3000:290.0
+tipo:Combustible:2000:400.0
+tipo:Extra:4000:600.0
+tipo:Corriente:4000:487.5
+surtidor:Luis:ACPM:0.0:Combustible:0.0:Extra:0.0:Corriente:-12.5
+surtidor:Jose:ACPM:0.0:Combustible:0.0:Extra:0.0:Corriente:0.0
+surtidor:Felipe:ACPM:-10.0:Combustible:0.0:Extra:0.0:Corriente:0.0
+surtidor:Mario:ACPM:0.0:Combustible:0.0:Extra:0.0:Corriente:0.0
+empleado:Santiago:0
+empleado:Jose:0
+empleado:Felipe:30000
+empleado:Luis:50000
+empleado:Mario:0
